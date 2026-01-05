@@ -1,0 +1,5 @@
+{
+  "name": "Service Directory",
+  "description": "A high-performance service directory web app with a searchable public home page and a secure admin panel for CRUD operations, powered by Firebase.",
+  "requestFramePermissions": []
+}
